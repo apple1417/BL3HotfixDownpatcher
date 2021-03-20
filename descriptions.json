@@ -3,5 +3,15 @@
     "filename": "hotfixes_2020_04_23_-_16_10_03_-_mayhem20_and_cartels.json",
     "friendly_name": "Mayhem 2.0 and Cartels",
     "description": "Introduction of Mayhem 2.0 and start of Revenge of the Cartels event. Also the start of the first Loot the Universe mini-event, on Pandora. Disabling of Slaughter Onslaught and Making It Rain events."
+  },
+  {
+    "filename": "hotfixes_2020_11_19_-_17_10_02_-_golden_path.json",
+    "friendly_name": "- Golden Path -",
+    "description": "Use this one if you want a Hellwalker after graveward (among other things)."
+  },
+  {
+    "filename": "hotfixes_2021_02_11_-_17_10_03_-_broken_hearts_2021.json",
+    "friendly_name": "- Crit Buff -",
+    "description": "Buffed the crit and hail, and beginning of Broken Hearts 2021."
   }
 ]
