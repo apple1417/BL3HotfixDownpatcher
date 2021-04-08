@@ -13,5 +13,10 @@
     "filename": "hotfixes_2021_02_11_-_17_10_03_-_broken_hearts_2021.json",
     "friendly_name": "- Crit Buff -",
     "description": "Buffed the crit and hail, and beginning of Broken Hearts 2021."
+  },
+  {
+    "filename": "hotfixes_2021_04_01_-_16_10_04_-_show_me_the_eridium.json",
+    "friendly_name": "Commitment Nerf",
+    "description": "Nerfed commitment. Also relaunched the Show Me The Eridium and April Fools events."
   }
 ]
