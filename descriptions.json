@@ -30,12 +30,12 @@
     "description": "Buffed the rewards from trials - if you're fast enough you get 4 guarenteed legendaries. Also added dedicated drops to DLC2 Gear, and made slaughter bosses drop 500 eridium."
   },
   {
-    "filename": " hotfixes_2021_05_13_-_16_10_03_-_true_trial_of_survival.json",
+    "filename": "hotfixes_2021_05_13_-_16_10_03_-_true_trial_of_survival.json",
     "friendly_name": "- T.K's Wave Buff -",
     "description": "Buffed the T.K's Wave. Also activated the True Trial of Survival."
   },
   {
-    "filename": " hotfixes_2021_06_24_-_16_10_02_-_cartels_crossplay_true_trials.json",
+    "filename": "hotfixes_2021_06_24_-_16_10_02_-_cartels_crossplay_true_trials.json",
     "friendly_name": "- Annointment Nerfs -",
     "description": "Nerfed a bunch of useful annointments such as consecutive hits and 300/90. Also enabled all true trials and buffed event bosses."
   }
