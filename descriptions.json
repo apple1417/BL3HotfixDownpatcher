@@ -5,6 +5,11 @@
     "description": "Introduction of Mayhem 2.0 and start of Revenge of the Cartels event. Also the start of the first Loot the Universe mini-event, on Pandora. Disabling of Slaughter Onslaught and Making It Rain events."
   },
   {
+    "filename": "hotfixes_2020_08_13_-_16_10_02_-_anniversary_3_loot_monster_mayhem.json",
+    "friendly_name": "- Loot Monster Mayhem -",
+    "description": "All the loot tinks and 100% unique drop rates."
+  },
+  {
     "filename": "hotfixes_2020_11_19_-_17_10_02_-_golden_path.json",
     "friendly_name": "- Golden Path -",
     "description": "Use this one if you want a Hellwalker after graveward (among other things)."
@@ -38,5 +43,20 @@
     "filename": "hotfixes_2021_06_24_-_16_10_02_-_cartels_crossplay_true_trials.json",
     "friendly_name": "- Annointment Nerfs -",
     "description": "Nerfed a bunch of useful annointments such as consecutive hits and 300/90. Also enabled all true trials and buffed event bosses."
+  },
+  {
+    "filename": "hotfixes_2021_08_12_-_16_10_03_-_loot_the_universe_pandora.json",
+    "friendly_name": "- Loot the Universe 2 Pandora -",
+    "description": "Droughts: COMs, SMGs; Ascension: Snipers; Devil's Razor: ARs, Grenades; Splinterlands: Pistols; Carnivora: ARs, Shields; Guts: Launchers; Konrad's: SMGs; Catherdal: Artifacts, Shotguns"
+  },
+  {
+    "filename": "hotfixes_2021_08_19_-_16_10_02_-_loot_the_universe_promethea.json",
+    "friendly_name": "- Loot the Universe 2 Promethea -",
+    "description": "Outskirts: Shotguns; Metroplex: Snipers, Artifacts; Athenas: Pistols, Shields; Lectra: SMGs; Skywell: Launchers, Grenades; HQ: ARs, COMs; Arterial: Shotguns"
+  },
+  {
+    "filename": "hotfixes_2021_08_26_-_16_10_03_-_loot_the_universe_eden_6.json",
+    "friendly_name": "- Loot the Universe 2 Eden 6 -",
+    "description": "Floodmoor: Pistols, COMs; Anvil: SMGs; Estate: ARs, Shields; Voracious: Snipers; Ambermire: Shotguns, Grenades; Blackbarrel: Launchers, Artifacts"
   }
 ]
