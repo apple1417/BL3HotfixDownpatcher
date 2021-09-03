@@ -58,5 +58,10 @@
     "filename": "hotfixes_2021_08_26_-_16_10_03_-_loot_the_universe_eden_6.json",
     "friendly_name": "- Loot the Universe 2 Eden 6 -",
     "description": "Floodmoor: Pistols, COMs; Anvil: SMGs; Estate: ARs, Shields; Voracious: Snipers; Ambermire: Shotguns, Grenades; Blackbarrel: Launchers, Artifacts"
+  },
+  {
+    "filename": "hotfixes_2021_09_02_-_16_10_02_-_loot_the_universe_nekrotafeyo.json",
+    "friendly_name": "- Loot the Universe 2 Nekrotafeyo -",
+    "description": "Desolation's: Launchers, COMS; Tazendeer: ARs, Artifacts; Pyre: SMGs; Survival: Shotguns; Fervor: Snipers, Shields; Cunning: Pistols; Supremacy: ARs; Discipline: SMGs, Grenades; Instinct: Launchers"
   }
 ]
