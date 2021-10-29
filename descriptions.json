@@ -63,5 +63,10 @@
     "filename": "hotfixes_2021_09_02_-_16_10_02_-_loot_the_universe_nekrotafeyo.json",
     "friendly_name": "- Loot the Universe 2 Nekrotafeyo -",
     "description": "Desolation's: Launchers, COMS; Tazendeer: ARs, Artifacts; Pyre: SMGs; Survival: Shotguns; Fervor: Snipers, Shields; Cunning: Pistols; Supremacy: ARs; Discipline: SMGs, Grenades; Instinct: Launchers"
+  },
+  {
+    "filename": "hotfixes_2021_10_28_-_16_10_03_-_traunt_family_revenge.json",
+    "friendly_name": "- Estate Hellwalker -",
+    "description": "Puts a hellwalker into Maurice's vendor in Estate. Also gives traunts dumb health in mayhem mode."
   }
 ]
