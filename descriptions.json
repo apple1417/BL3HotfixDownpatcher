@@ -68,5 +68,10 @@
     "filename": "hotfixes_2021_10_28_-_16_10_03_-_traunt_family_revenge.json",
     "friendly_name": "- Estate Hellwalker -",
     "description": "Puts a hellwalker into Maurice's vendor in Estate. Also gives traunts dumb health in mayhem mode."
+  },
+  {
+    "filename": "speedrun_mod_v1.json",
+    "friendly_name": "- Speedrun Mod -",
+    "description": "May not be used in regular categories. Imports 100% dedicated rates from Bonus Boss Loot Event. Makes Shiv always drop a white Jakobs shotgun. Prevents the Tidal Wave from dropping. Forces Maurice's black market to be in Jakob's Estate, with the Hellwalker itempool. Changes quest reward for From the Ground Up to a Vanquisher, Borderlands Science and Cold as the Grave to a Hellwalker, and Blood Drive to a white snowdrift."
   }
 ]
